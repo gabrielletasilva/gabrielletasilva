@@ -18,6 +18,6 @@
  <div 
  <a " href="https://www.linkedin.com/in/gabrielle-t-773932135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?  style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
+ <img src="https://user-images.githubusercontent.com/82898190/221376710-eba07802-bbde-4f3b-ab7b-bb979c97750e.png" width="250" height="250"/>
 
- ![octocat-1677353374472222](https://user-images.githubusercontent.com/82898190/221376710-eba07802-bbde-4f3b-ab7b-bb979c97750e.png) 
  </div>
