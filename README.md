@@ -1,24 +1,24 @@
 # My name is Gabrielle
 
-## Welcome to my Github profile🐸
+### Welcome to my Github profile🐸
 
 
-## I'm studying and upgrading:
+### Tools &amp; Tech.
 
-<i class="devicon-css3-plain-wordmark colored"></i>
-<i class="devicon-html5-plain colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-
-## learning
-
-<i class="devicon-angularjs-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 
-## contact: 
+### learning
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+
+
+
+### contact: 
 
 <div>
  <a href="https://www.linkedin.com/in/gabrielle-t-773932135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div class="tenor-gif-embed" data-postid="24153025" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/roll-frog-rolling-pixel-pixelated-gif-24153025">Roll Frog Sticker</a>from <a href="https://tenor.com/search/roll-stickers">Roll Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![octocat-1677353374472222](https://user-images.githubusercontent.com/82898190/221376710-eba07802-bbde-4f3b-ab7b-bb979c97750e.png)
