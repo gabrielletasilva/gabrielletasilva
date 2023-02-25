@@ -1,16 +1,24 @@
-### Hi there 👋
+# My name is Gabrielle
 
-<!--
-**gabrielletasilva/gabrielletasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my Github profile🐸
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm studying and upgrading:
+
+<i class="devicon-css3-plain-wordmark colored"></i>
+<i class="devicon-html5-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+
+## learning
+
+<i class="devicon-angularjs-plain colored"></i>
+
+
+## contact: 
+
+<div>
+ <a href="https://www.linkedin.com/in/gabrielle-t-773932135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div class="tenor-gif-embed" data-postid="24153025" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/roll-frog-rolling-pixel-pixelated-gif-24153025">Roll Frog Sticker</a>from <a href="https://tenor.com/search/roll-stickers">Roll Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
