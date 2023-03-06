@@ -3,7 +3,7 @@
 <h2 align="center"> Welcome to my Github profile🐸 </h2>
 
 
-<h6 align="center"> Hello Dev's! I'm a trainee developer passionate about technology and innovative solutions. I have basic skills in languages such as HTML, Css and JavaScript and am always looking for new opportunities to broaden my knowledge and skills. </h6>
+<h4 align="center"> Hello Dev's! I'm a trainee developer passionate about technology and innovative solutions. I have basic skills in languages such as HTML, Css and JavaScript and am always looking for new opportunities to broaden my knowledge and skills. </h4>
 
 
 <h3 align="center"> Tools &amp; Tech. </h3>           
