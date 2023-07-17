@@ -23,11 +23,3 @@
  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielle-t-773932135/)](https://www.linkedin.com/in/gabrielle-t-773932135/)
  
  
- <img src="https://user-images.githubusercontent.com/82898190/221376710-eba07802-bbde-4f3b-ab7b-bb979c97750e.png" width="250" height="250"/>
-<div>
-<a href="https://github.com/gabrielletasilva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielletasilva&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielletasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
- </div>
